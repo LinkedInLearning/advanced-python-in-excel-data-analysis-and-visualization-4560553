@@ -1,7 +1,10 @@
 # Advanced Python in Excel: Data Analysis and Visualization
 This is the repository for the LinkedIn Learning course `Advanced Python in Excel: Data Analysis and Visualization`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
+![lil-thumbnail-url]
+
+In this course, learn how to use Python to go beyond Excel’s limited functionalities to perform complex data analysis and visualizations. Instructor Sarah Om details how Python’s integrations with Excel bring new dimensions of functionality, allowing for more advanced data manipulation, automation, and visualization than ever before. Sarah shows you how to leverage Python’s powerful libraries for data analysis to transform raw data into meaningful insights and stunning visualizations—right from the familiar Excel environment.
+
 ## Capstone Project Instructions
 
 ### Objective
@@ -62,9 +65,19 @@ Forking a repository creates a personal copy of the repository on your GitHub ac
 
 After forking, you can clone the forked repository to your local machine using the steps described above for cloning.
 
+### Instructor
+
+Sarah Om
+
+Data Analyst and Educator
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/sarah-om?u=104).
+
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQENZljX71ArEQ/learning-public-crop_675_1200/0/1721771083260?e=2147483647&v=beta&t=R_JsAGe6pKU-R8d-2pEe10JJom1lgl8x12SALEVZ5Sk
 
